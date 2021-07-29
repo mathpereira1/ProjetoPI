@@ -7,4 +7,14 @@ Este é um projeto do curso de Bacharelado em Ciência e Tecnologia/Ciências da
 - Uso de vetores
 - Modularização
 - Uso de bibliotecas (pandas)
-- Familiarização com o uso de banco de dados externos
+- Familiarização com o uso de banco de dados externos.
+
+### Progresso atual :
+
+- Uso da biblioteca Pandas
+- Importação da base de dados
+- Carregamento de Vetores com os dados
+- Conversão do dado string separado com virgula para float separado por ponto
+- Processamento dos dados ao calcular suas respectivas médias
+
+### Status : Aguardando próxima instrução do professor.
