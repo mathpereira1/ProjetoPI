@@ -16,5 +16,5 @@ Este é um projeto do curso de Bacharelado em Ciência e Tecnologia/Ciências da
 - Carregamento de Vetores com os dados
 - Conversão do dado string separado com virgula para float separado por ponto
 - Processamento dos dados ao calcular suas respectivas médias
+- Uso de funções para responder perguntas formuladas pelo professor e grupo de trabalho sobre o banco de dados
 
-### Status : Aguardando próxima instrução do professor.
